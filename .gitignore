@@ -1,0 +1,32 @@
+# ignore data files
+*.csv 
+*.tsv
+*.json
+*.xml
+*.yaml
+
+# ignore compiled files
+*.pyc
+*.class
+*.o
+*.exe
+*.dll
+*.so
+
+# ignore log files
+*.log
+*.out
+*.err
+# ignore temporary files
+*~
+*.tmp
+
+# ignore document files
+*.docx
+*.pdf
+*.pptx
+*.xlsx
+
+# ignore sensitive files
+.env
+
