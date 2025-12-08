@@ -30,3 +30,5 @@
 # ignore sensitive files
 .env
 
+# ignore models 
+*.pkl
