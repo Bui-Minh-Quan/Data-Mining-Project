@@ -21,6 +21,8 @@
 * **Phân chia:**
     * *Train:* 01/01/2023 - 31/12/2024 (Xây dựng mô hình & Luật).
     * *Test:* 01/01/2025 - 06/12/2025 (Kiểm thử chiến lược).
+* **Link dữ liệu:** https://www.kaggle.com/datasets/minhqunbi/data-mining-dataset
+
 
 ### 2. Kỹ thuật xử lý (Feature Engineering)
 * **Chỉ báo kỹ thuật:** RSI, EMA, ATR, Shock Volume.
